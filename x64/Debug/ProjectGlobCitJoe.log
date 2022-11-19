@@ -1,0 +1,8 @@
+﻿  Calorie.cpp
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\Music.h(152,3): error C2065: 'Calorie': undeclared identifier
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\Music.h(152,12): error C2065: 'p2': undeclared identifier
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\Music.h(152,23): error C2061: syntax error: identifier 'Calorie'
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\Music.h(153,3): error C2065: 'p2': undeclared identifier
+  Home.cpp
+  Music.cpp
+  Generating Code...

@@ -1,0 +1,8 @@
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\x64\Debug\ProjectGlobCitJoe.vcxproj.AssemblyReference.cache
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\x64\Debug\ProjectGlobCitJoe.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\x64\Debug\ProjectGlobCitJoe.Home.resources
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\x64\Debug\ProjectGlobCitJoe.vcxproj.GenerateResource.cache
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\x64\Debug\ProjectGlobCitJoe.Music.resources
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\x64\Debug\ProjectGlobCitJoe.Calculator.resources
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\x64\Debug\ProjectGlobCitJoe.Calorie.resources
+C:\Users\joech\source\repos\ProjectGlobCitJoe\ProjectGlobCitJoe\x64\Debug\ProjectGlobCitJoe.MyForm.resources
