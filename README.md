@@ -4,7 +4,7 @@
 
 **Healthy Body, Happy Life**  
 
-WOTRACKER (Workout Tracker) is a **C++ application** developed as my **Grade 10 Term 2 Global Citizenship project**. The goal of this project was to design a solution addressing a United Nations **Sustainable Development Goal (SDG)** — I chose **SDG 3: Good Health and Well-Being**.  
+WOTRACKER (Workout Tracker) is a **C++ application** developed as my **Grade 10 Term 2 Global Citizenship project**. The goal of this project was to design a solution addressing a United Nations **Sustainable Development Goal (SDG)**. I chose **SDG 3: Good Health and Well-Being** for this Project.  
 
 This project combines both **global citizenship awareness** and **technical implementation**, encouraging people to live healthier lives through exercise tracking, calorie management, and motivation via music.  
 
